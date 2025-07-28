@@ -1,0 +1,42 @@
+ body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+ }
+ header {
+  background: #222;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+ }
+ header h1 {
+  margin: 0;
+ }
+ section {
+  padding: 20px;
+ }
+ ul {
+  list-style: square;
+ }
+ .project {
+  background: #fff;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+ }
+ .contect{
+    background: #fff;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  
+
+ }
+ footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+ }
